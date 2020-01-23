@@ -31,7 +31,7 @@ Language=en
 ;Increase or decrease this value to make the skin bigger or smaller.
 ;A scale of "2.00" will be 4x the area.
 Scale=0.42
-Scroll=false
+Scroll=true
 ScaleChange=0.02
 
 ;================================================
